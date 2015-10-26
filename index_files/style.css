@@ -1,0 +1,219 @@
+
+      html, body {
+        margin: 0;
+        padding: 0;
+        font-family: 'Montserrat', sans-serif;
+      }
+
+      body {
+        background-image:url(/pictures/cat-piano_125158.jpg);
+        background-size:cover;  
+        background-repeat:no-repeat;
+        background-color: #140e07; 
+        color:#fff;
+      }
+
+
+      /* Header */
+      .header {
+        text-align: left;
+        margin-bottom: 50px;
+      }
+
+      .header .container {
+        padding: 20px 0;
+        border-bottom: 1px solid #000;
+      }
+
+      /* Main */
+      .main {
+        margin: 40px 0;
+      }
+
+      .main h1 {
+        font-size: 30px;
+        margin: 0 0 20px 0;
+        color:#fff;
+      }
+
+      
+      .keyGroup {
+        position:relative;
+        padding: 160px 36px 40px 36px;
+
+      }
+
+    
+      .white_key { 
+        position: relative; 
+        background-color: #fff;
+        transition: background-color 0.1s ease;
+        border:2px solid #000;
+        border-radius:5px; 
+        width:24px;
+        height:226px;
+        cursor:pointer;
+        margin:0px 0px;
+        float:left;
+      }
+      
+      .active_white {
+        background-color:#C0C0C0;
+      }
+      .black_key {
+        position: absolute; 
+        background-color: #000;
+        border-radius:3px; 
+        width:18px;
+        height:140px;
+        cursor:pointer;
+        margin:0px 0px;
+      }
+
+       .active_black {
+        background-color:#303030;
+      }
+
+    #Bb0 {    
+      left:51px;
+    }
+    
+    #Db1 {
+      left:99px;
+    }
+
+    #Eb1 {
+      left:123px;
+    }
+
+    #Gb1 {
+      left:171px;
+    }
+
+    #Ab1 {
+      left:195px;
+    }
+
+    #Bb1 {
+      left:219px;
+    }
+
+    #Db2 {
+      left:267px;
+    }
+    
+    #Eb2 {
+      left:291px;
+    }
+
+    #Gb2 {
+      left:339px;
+    }
+
+    #Ab2 {
+      left:363px;
+    }
+
+    #Bb2 {
+      left:387px;
+    }
+
+    #Db3 {
+      left:435px;
+    }
+
+    #Eb3 {
+      left:459px;
+    }
+    
+    #Gb3 {
+      left:507px;
+    }
+
+    #Ab3 {
+      left:531px;
+    }
+
+    #Bb3 {
+      left:555px;
+    }
+
+    #Db4 {
+      left:603px;
+    }
+
+    #Eb4 {
+      left:627px;
+    }
+
+    #Gb4 {
+      left:675px;
+    }
+    
+    #Ab4 {
+      left:699px;
+    }
+
+    #Bb4 {
+      left:723px;
+    }
+
+    #Db5 {
+      left:771px;
+    }
+
+    #Eb5 {
+      left:795px;
+    }
+
+    #Gb5 {
+      left:843px;
+    }
+
+    #Ab5 {
+      left:867px;
+    }
+    
+    #Bb5 {
+      left:891px;
+    }
+
+    #Db6 {
+      left:939px;
+    }
+
+    #Eb6 {
+      left:963px;
+    }
+
+    #Gb6 {
+      left:987px;
+    }
+
+    #Ab6 {
+      left:1035px;
+    }
+     
+    #Bb6 {
+      left:1059px;
+    }
+
+    #Db7 {
+      left:1107px;
+    }
+    
+    #Eb7 {
+      left:1131px;
+    }
+
+    #Gb7 {
+      left:1179px;
+    }
+
+    #Ab7 {
+      left:1203px;
+    }
+
+    #Bb7 {
+      left:1227px;
+    }
